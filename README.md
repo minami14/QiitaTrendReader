@@ -1,0 +1,2 @@
+# QiitaTrendReader
+Qiitaのトレンド記事を音声合成ソフトウェアに読み上げさせるWindows用のデスクトップアプリケーション
